@@ -1,0 +1,18 @@
+body{
+  background: black;
+}
+
+/*Adds red dashes accross each site element */
+* {
+  border: 1px dashed red;
+  min-height: 10px;
+}
+
+.apocalypse{
+  background: greenyellow;
+  width: 800px;
+  height: 800px;
+  margin: auto;
+}
+
+
